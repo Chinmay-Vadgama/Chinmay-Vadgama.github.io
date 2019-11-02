@@ -135,7 +135,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+    color: #4d4dff !important;
 }
 
 a {
@@ -143,5 +143,5 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+    color: #4d4dff;
 }
